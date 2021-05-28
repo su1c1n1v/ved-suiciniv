@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A web developer searching new way to create new applications.
+:brazil:
 <!--
 **ved-suiciniv/ved-suiciniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
