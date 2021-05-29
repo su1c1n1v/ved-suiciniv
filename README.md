@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-A 🇧🇷 web developer searching new way to create new applications.
+A 🇧🇷 web developer searching new ways to create new applications.
+In the moment excited to work with project in C# and .NET.
 
 <!--
 **ved-suiciniv/ved-suiciniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
