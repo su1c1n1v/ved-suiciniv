@@ -6,4 +6,4 @@ In the moment excited to work with projects in C# and .NET.
 
 From 🇧🇷 to :portugal:
 
-Studant of [UBI](https://www.ubi.pt/)
+Bachelor's degree, Computer Science and Engineering
