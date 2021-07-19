@@ -1,8 +1,6 @@
-### Hello
+## Hello
 
-I am a web develper searching new ways to create new applications.
-
-At the moment excited to work with projects in C# and .NET.
+I am a software developer with web experience and using technologies like .NET,JavaScript, and Bootstrap. At the moment, exciting to create new applications with di-verse technologies and work in a modern and solid company.
 
 From 🇧🇷 to :portugal:
 
