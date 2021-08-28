@@ -6,7 +6,7 @@ My name is Vinícius and I am a software developer with web experience and using
 
 - Name: Vinícius Costa
 - Age: 21
-- Living in: Covilhã - Portugal
+- Living in: Lisbon - Portugal
 - Born: Distrito Federal (Brasília) - Brasil
 - University: Bachelor's degree, Computer Science and Engineering - University of Beira Interior (UBI)
 - Stack: .NET - C# - CSS - HTML - JavaScript - Bootstrap
